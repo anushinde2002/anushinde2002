@@ -1,0 +1,4 @@
+- 👋 Hi, I'm Anita Shinde
+- 👀 I’m interested in Software Development
+- 🌱 I’ve knowledge about C, Java, Python, HTML5, CSS, Javascript and Data Structures and Algorithms.
+- 💞️ Currently Pursuing Master's in Computer Science
