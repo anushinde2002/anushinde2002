@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Anita Shinde!
+- 👋 Hi, I'm Anita Shinde
 - 👀 I've good knowledge about SQL, MySQL, PostgreSQL, MongoDB Databases and Computer Networking.
 - 🌱 I’ve knowledge about C, C++, Java, Python, HTML, CSS, Javascript and Data Structures and Algorithms.
 - 💞️ Currently Pursuing Master's in Computer Science
